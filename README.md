@@ -1,2 +1,2 @@
 # Mall Customer Dataset
- Aim of this project is to find a target audience for a mall to increase its revenue
+ Aim of this project is to find a target audience for a mall to increase its revenue using k-means clustering algorithm.
